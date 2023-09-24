@@ -66,6 +66,7 @@ Algorithms:
   2. Largest of an array
   3. Smallest of an array
   4. Sorting 
+  5. Frequency of char, removal of duplicates, removal of specific characters
 
 
 
