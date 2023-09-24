@@ -1,0 +1,72 @@
+
+while Loop:
+
+Array Methods array.join
+
+  using \n for new line in the output
+
+  reversal logic
+
+  Iteration of digits of a Number
+    Eg: 7899
+
+      7
+      8
+      9
+      9
+
+  Recursion:
+    function calling itself
+
+    Eg: Sum of digits
+
+
+Problems:
+
+  factorial
+
+  Check Palindrome:
+
+  Check Armstrong Number:
+    Link: https://www.google.com/search?q=armstrong+number&oq=armstrong+num&aqs=chrome.0.0i20i263i433i512j0i20i263i512j0i512j69i57j0i512j0i131i433i512j0i512l4.2871j0j7&sourceid=chrome&ie=UTF-8
+
+    INP: 153
+    OUT: true
+
+    INP: 1634
+    OUT: ture
+
+    INP: 123
+    OUT: false  
+
+Last Checking:
+Write a code to get a integer n as input and calculate the smallest perfect power of 2 greater than n.
+
+Write a code to get 2 integers as input and add the integers without any carry.
+
+Input Description: A single line containing 2 integers.
+Output Description: Print sum of the 2 integers without carry
+
+
+Task:
+
+  CodeKata -
+    Input/Output: Should finish all problems
+
+    Basics: should finish atleat 10 problems
+
+    Looping: Try finishing all the problemseverything
+
+Next Session:
+find GCD:
+find LCM:
+Fibonacci Series:
+Algorithms:
+  1. Searching
+  2. Largest of an array
+  3. Smallest of an array
+  4. Sorting 
+
+
+
+ 
